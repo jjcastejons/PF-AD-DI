@@ -22,3 +22,13 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# BE API
+BE_API/target/*
+
+# FE 
+FE/android/
+FE/ios/
+FE/linux/
+FE/macos/
+FE/windows/
